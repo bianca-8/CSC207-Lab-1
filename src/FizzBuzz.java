@@ -41,4 +41,10 @@ class FizzBuzz {
     }
 
 
+            System.out.println(i);
+
+        }
+        i += 1;
+        return i;
+    }
 }
